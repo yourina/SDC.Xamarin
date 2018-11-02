@@ -1,2 +1,1 @@
-# SDC.Xamarin
-Xamarin Demo Application for SDC 2018
+# Xamarin.Forms Demo Application for SDC
